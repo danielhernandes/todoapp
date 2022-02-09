@@ -16,6 +16,10 @@
 
 this is sample of a block code
 
+```sh
+git init
+```
+
 ### Dev is awesome
 
 # Hi
