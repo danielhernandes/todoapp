@@ -16,9 +16,16 @@
 
 this is sample of a block code
 
+- Initializing Git
+
 ```sh
 git init
 ```
+
+- Initializing Git
+  ```sh
+  git init
+  ```
 
 ### Dev is awesome
 
